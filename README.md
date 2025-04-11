@@ -1,4 +1,4 @@
-# Onlook Starter Template
+# Dark JS Starter Template
 
 <p align="center">
   <img src="app/favicon.png" />
