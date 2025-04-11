@@ -1,7 +1,7 @@
 # Dark JS Starter Template
 
 <p align="center">
-  <img src="app/favicon.png" />
+  <img src="app/screenshot.png" />
 </p>
 
 This is an [DarkJS](https://darkjs.com/) project set up with
