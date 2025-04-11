@@ -4,7 +4,7 @@
   <img src="app/screenshot.png" />
 </p>
 
-This is an [DarkJS](https://darkjs.com/) project set up with
+This is a [DarkJS](https://darkjs.com/) developed with
 [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and
 [ShadCN](https://ui.shadcn.com).
 
