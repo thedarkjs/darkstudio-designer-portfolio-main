@@ -4,9 +4,10 @@
   <img src="app/screenshot.png" />
 </p>
 
-This is a [DarkJS](https://darkjs.com/) developed with
+This is a [DarkJS](https://darkjs.com/) template developed with
 [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and
 [ShadCN](https://ui.shadcn.com).
+For more free templates, visit [DarkJS](https://darkjs.com/) or design your own template using our available Website Builder.
 
 ## Getting Started
 
