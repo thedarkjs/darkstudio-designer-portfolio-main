@@ -4,6 +4,8 @@
   <img src="app/screenshot.png" />
 </p>
 
+[Live Demo](https://demo-darkstudio.darkjs.com/)
+<br>
 This is a [DarkJS](https://darkjs.com/) template developed with
 [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and
 [ShadCN](https://ui.shadcn.com).
